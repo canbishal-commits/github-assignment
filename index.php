@@ -1,3 +1,3 @@
 <?php
-echo "Wrong branch version";
+echo "Version 3";
 ?>
