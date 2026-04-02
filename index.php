@@ -1,3 +1,3 @@
 <?php
-echo "Merged branch version";
+echo "Version 3";
 ?>
